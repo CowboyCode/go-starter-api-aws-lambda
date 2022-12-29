@@ -4,6 +4,11 @@
 *.dll
 *.so
 *.dylib
+mainapp/envs/.env
+main
+main.zip
+.idea
+go.sum
 
 # Test binary, built with `go test -c`
 *.test
